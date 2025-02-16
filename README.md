@@ -10,3 +10,5 @@ Day 3: Formatting Strings and Processing User Input.
 Day 4: Basic Python Collections.
 
 Day 5: Conditionals and Booleans.
+
+Day 6: For Loops
