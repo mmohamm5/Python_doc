@@ -12,3 +12,5 @@ Day 4: Basic Python Collections.
 Day 5: Conditionals and Booleans.
 
 Day 6: For Loops
+
+Day 7: split, join, and Slices
