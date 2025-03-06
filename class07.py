@@ -22,3 +22,6 @@ sample_string = "Python"
 
 print(list(sample_string)) # ['P', 'y', 't', 'h', 'o', 'n']
 print(tuple(sample_string)) # ('P', 'y', 't', 'h', 'o', 'n')
+
+#The newline character
+print("Super Special Mega Awesome Program\n\nBy Phillip Best")
